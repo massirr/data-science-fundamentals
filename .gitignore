@@ -1,0 +1,4 @@
+temp/
+.ipynb_checkpoints/
+__pycache__/
+COPILOT_INSTRUCTIONS.md
