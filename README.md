@@ -116,3 +116,6 @@ In unsupervised learning, we only have input features (X) without labels. The go
 - Silhouette Score: How similar objects are to their own cluster vs other clusters
 - Elbow Method: Visual approach to finding optimal k
 - Dendrogram: Visual hierarchy of clusters (hierarchical clustering)
+
+
+**The Mind Dataset**
