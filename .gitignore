@@ -1,7 +1,5 @@
 temp/
 .ipynb_checkpoints/
 __pycache__/
-COPILOT_INSTRUCTIONS.md
-0-Solutions/
-00-Take Home Assignment/
+Take_Home_Assignment_DSF/
 WhatToRemember.md
